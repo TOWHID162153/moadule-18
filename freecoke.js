@@ -19,5 +19,3 @@ else{
     console.log("Sir you have to pay for your burger:",regularBurger,"taka");
     console.log("And for the coke:",coke,"taka")
 }
-
- 
